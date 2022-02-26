@@ -1,8 +1,8 @@
 title: Yoda's House
 email: yoda@force.com
-description: >-
-  Very good my site is!
-url: https://lucamaina.github.io/
+description: Very good my site is!
+baseurl: /
+url: https://lucamaina.github.io
 twitter_username: yoda
 github_username:  yoda
 
