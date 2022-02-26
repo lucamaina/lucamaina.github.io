@@ -8,3 +8,4 @@ github_username:  yoda
 
 # Build settings
 theme: jekyll-theme-cayman
+layout: default
