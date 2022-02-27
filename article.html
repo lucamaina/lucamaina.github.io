@@ -6,7 +6,7 @@ title: Posts
 <h1>Latest Posts</h1>
 
 <ul>
-  {{ site.post }}
+  {{ site.posts }}
   {% for post in site.posts %}
     <li>
 	<h2> -> {{ site.baseurl }}/{{ post.url }} ; {{ post.title }} </h2>
