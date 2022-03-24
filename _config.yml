@@ -10,4 +10,4 @@ github_username:  yoda
 theme: jekyll-theme-cayman
 layout: default
 
-permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:day/:title:output_ext
