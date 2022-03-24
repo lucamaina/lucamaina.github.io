@@ -9,3 +9,5 @@ github_username:  yoda
 # Build settings
 theme: jekyll-theme-cayman
 layout: default
+
+permalink: /:categories/:year/:month/:day/:title:output_ext
