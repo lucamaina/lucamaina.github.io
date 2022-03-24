@@ -11,7 +11,7 @@ title: Posts
       <h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
 <!--	  {{ post.excerpt }} -->
       {{ post.content | strip_html | truncatewords: 50 }}
-	  <p>
+	  <br>
     </li>
   {% endfor %}
 </ul>
